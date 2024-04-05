@@ -1,7 +1,7 @@
-# gpt_standalone
+# gpt4me
 This will connect to chat.openai to access within a standalone container on your desktop
 
-Run cmds:
-pip install -r requirements.txt  # Install required packages
-rm -rf build dist                # Clean previous builds
-python setup.py py2app           # Build the app
+<br> Run cmds:
+<br> pip install -r requirements.txt  &nbsp; # Install required packages
+<br> rm -rf build dist                &nbsp; # Clean previous builds
+<br> python setup.py py2app           &nbsp; # Build the app
