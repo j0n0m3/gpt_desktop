@@ -1,5 +1,5 @@
 # gpt4me
-This will connect to chat.openai to access within a standalone container on your desktop
+This will connect to "chat.openai" to access within a standalone container on your desktop.
 
 <br> Run cmds:
 <br> pip install -r requirements.txt  &nbsp; # Install required packages
